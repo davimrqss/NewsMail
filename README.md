@@ -20,5 +20,8 @@ A Python script that fetches recent news from [NewsAPI](https://newsapi.org/), l
       To send emails, the script uses Gmail's SMTP server.  
       You must generate an App Password to allow access.
 
+# Maybe Future features
+   1. A GUI for more simplicity.
+
 # License
    this is just a project, only for study, you can use it freely, respecting NewsAPI rules.
